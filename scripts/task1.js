@@ -1,3 +1,4 @@
 let admin = 'John';
-let name = 'John';
+let name
+name=admin
 alert(admin);
